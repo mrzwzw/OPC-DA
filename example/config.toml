@@ -1,0 +1,7 @@
+[TAGS]
+TAG = [
+  "APC1",
+  "Int64Value",
+]
+
+SERVER = "opcserversim.Instance.1"
